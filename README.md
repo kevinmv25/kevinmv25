@@ -1,6 +1,7 @@
-## 📂 Sobre mí
 
-- [💻 Dev Skills](devskill.md)
-- [📊 Generales](generales.md)
-- [🎯 Intereses](interes.md)
-- [🧠 Soft Skills](softkill.md)
+##  Mi información
+
+| 💻 Habilidades técnicas | [Abrir](devskill.md) |
+| 🧠 Habilidades blandas | [Abrir](softkill.md) |
+| 🎯 Intereses | [Abrir](interes.md) |
+| 📊 Generales | [Abrir](generales.md) |
