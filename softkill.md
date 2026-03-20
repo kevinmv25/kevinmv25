@@ -19,7 +19,9 @@
 
  - **Sistema gestor de Farmacia (Java)**
  - **Sistema gestor de biblioteca sin interfaz gráfica (Python)**
- - **Sistema gestor de Tienda (Java)**
- - **Sistema gestor de biblioteca (Java)**
+ - **Sistema gestor de Tienda con ABB (Java)**
+ - **Sistema gestor de Biblioteca almacenados en JSON (Java)**
+ - **Sistema gestor de Tienda usando JavaFX (Java)**
+ - **Sistema gestor de Autos**
 
  ###
